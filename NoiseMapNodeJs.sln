@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NoiseMapNodeJs", "NoiseMapNodeJs\NoiseMapNodeJs.njsproj", "{CA4D6044-81CF-418E-96BD-E81F9BDEFA89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA4D6044-81CF-418E-96BD-E81F9BDEFA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4D6044-81CF-418E-96BD-E81F9BDEFA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4D6044-81CF-418E-96BD-E81F9BDEFA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4D6044-81CF-418E-96BD-E81F9BDEFA89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55931C55-9035-43DC-9BD0-9854E3FC43A2}
+	EndGlobalSection
+EndGlobal
